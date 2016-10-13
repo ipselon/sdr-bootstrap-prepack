@@ -24,7 +24,7 @@
     "reduce-reducers": "0.1.1",
     "redux": "3.3.0",
     "redux-thunk": "1.0.3",
-    "request": "2.65.0",
+    "request": "2.74.0",
     "reselect": "2.0.2"
   },
   "author": "",
